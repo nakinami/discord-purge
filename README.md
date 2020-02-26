@@ -30,4 +30,4 @@ And follow the on-screen instructions.
 
 ## Bugs
 
-https://github.com/Ominousness/discord-purge/issues
+https://github.com/nakinami/discord-purge/issues
